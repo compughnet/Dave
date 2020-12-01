@@ -1,0 +1,5 @@
+COLUMN TABLE "test" (
+    "ID" INTEGER  not NULL,
+    "NAME" VARCHAR(20),
+PRIMARY KEY ("ID")
+);
